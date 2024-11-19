@@ -6,7 +6,7 @@ The script will create a folder with each class having a subfolder with the imag
 
 The code itself has comments to explain what each part does. The parameters are hardcoded in the script, so you need to change the parameters in the script to fit your needs.
 
-*Note:* I can't believe the script is very optimized as its a quick and dirty script I made for my own use with rather small amount of data, so it might not be too suitable for massive datasets.
+*Note:* I can't imagine the script is very optimized as its a quick and dirty script I made for my own use with rather small amount of data, so it might not be too suitable for massive datasets.
 
 You are free to steal the code and use it as you like. If you have any suggestions for improvements, feel free to fix it yourself.
 
